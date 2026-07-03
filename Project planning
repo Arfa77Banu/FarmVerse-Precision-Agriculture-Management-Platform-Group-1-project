@@ -1,0 +1,47 @@
+# 🌾 FarmVerse – Precision Agriculture Management Platform
+
+## **Project Name**
+
+**FarmVerse – Precision Agriculture Management Platform**
+
+## **Problem Statement**
+
+Farmers often manage crop records, irrigation schedules, fertilizer usage, and pest observations manually. This leads to inefficient tracking, resource wastage, and difficulty monitoring farm performance.
+
+## **Problem Solution**
+
+FarmVerse provides a centralized digital platform for managing farmer profiles, farms, crops, irrigation schedules, fertilizer usage, weather information, and pest reports.
+
+## **Problem Architecture**
+
+**Presentation Layer (JavaFX UI)**
+
+⬇️
+
+**Business Logic Layer (Java)**
+
+⬇️
+
+**Data Access Layer (JDBC)**
+
+⬇️
+
+**PostgreSQL Database**
+
+## **Technology Stack**
+
+| **Component** | **Technology** |
+|--------------|----------------|
+| **Programming Language** | Java |
+| **User Interface** | JavaFX |
+| **Database** | PostgreSQL |
+| **Connectivity** | JDBC |
+| **IDE** | IntelliJ IDEA |
+| **Version Control** | Git & GitHub |
+
+## **Team Members**
+
+- **Member 1**
+- **Member 2**
+- **Member 3**
+- **Member 4**
