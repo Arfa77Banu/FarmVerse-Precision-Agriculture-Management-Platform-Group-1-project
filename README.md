@@ -1,0 +1,1 @@
+# FarmVerse-Precision-Agriculture-Management-Platform-Group-1-project
