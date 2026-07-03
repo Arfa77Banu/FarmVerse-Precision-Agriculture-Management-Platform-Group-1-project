@@ -1,43 +1,57 @@
-# 🌾 FarmVerse – Precision Agriculture Management Platform
+# 🌾 **FarmVerse – Precision Agriculture Management Platform**
 
 ## **Project Name**
 
-**FarmVerse – Precision Agriculture Management Platform**
+### **FarmVerse – Precision Agriculture Management Platform**
 
 ## **Problem Statement**
 
-Farmers often manage crop records, irrigation schedules, fertilizer usage, and pest observations manually. This leads to inefficient tracking, resource wastage, and difficulty monitoring farm performance.
+**Farmers often manage crop records, irrigation schedules, fertilizer usage, and pest observations manually.** This leads to:
+- **Inefficient tracking**
+- **Resource wastage**
+- **Difficulty monitoring farm performance**
 
 ## **Problem Solution**
 
-FarmVerse provides a centralized digital platform for managing farmer profiles, farms, crops, irrigation schedules, fertilizer usage, weather information, and pest reports.
+**FarmVerse** provides a **centralized digital platform** for managing:
+- **Farmer profiles**
+- **Farms**
+- **Crops**
+- **Irrigation schedules**
+- **Fertilizer usage**
+- **Weather information**
+- **Pest reports**
 
-## **Problem Architecture**
+## **Project Architecture**
 
-**Presentation Layer (JavaFX UI)**
-
-⬇️
-
-**Business Logic Layer (Java)**
-
-⬇️
-
-**Data Access Layer (JDBC)**
-
-⬇️
-
-**PostgreSQL Database**
+```
+┌─────────────────────────────────┐
+│  Presentation Layer (JavaFX UI) │
+└────────────────┬────────────────┘
+                 ⬇️
+┌─────────────────────────────────┐
+│   Business Logic Layer (Java)   │
+└────────────────┬────────────────┘
+                 ⬇️
+┌─────────────────────────────────┐
+│  Data Access Layer (JDBC)       │
+└────────────────┬────────────────┘
+                 ⬇️
+┌─────────────────────────────────┐
+│     PostgreSQL Database         │
+└─────────────────────────────────┘
+```
 
 ## **Technology Stack**
 
 | **Component** | **Technology** |
-|--------------|----------------|
-| **Programming Language** | Java |
-| **User Interface** | JavaFX |
-| **Database** | PostgreSQL |
-| **Connectivity** | JDBC |
-| **IDE** | IntelliJ IDEA |
-| **Version Control** | Git & GitHub |
+|---|---|
+| **Programming Language** | **Java** |
+| **User Interface** | **JavaFX** |
+| **Database** | **PostgreSQL** |
+| **Connectivity** | **JDBC** |
+| **IDE** | **IntelliJ IDEA** |
+| **Version Control** | **Git & GitHub** |
 
 ## **Team Members**
 
@@ -45,3 +59,16 @@ FarmVerse provides a centralized digital platform for managing farmer profiles, 
 - **Member 2**
 - **Member 3**
 - **Member 4**
+
+---
+
+## **Key Features**
+
+- ✅ **User Authentication & Authorization**
+- ✅ **Farmer Profile Management**
+- ✅ **Farm & Crop Management**
+- ✅ **Irrigation Schedule Tracking**
+- ✅ **Fertilizer Usage Monitoring**
+- ✅ **Weather Integration**
+- ✅ **Pest & Disease Reporting**
+- ✅ **Data Analytics & Reports**
